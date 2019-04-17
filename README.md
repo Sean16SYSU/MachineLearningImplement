@@ -4,6 +4,7 @@ In this repository, I will implement some machine learning algorithms in Python,
 
 * Clustering
     * DBSDCAN
+    * FCM
     * GMMs
     * KMeans
     * KMeans++
