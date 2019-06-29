@@ -11,3 +11,7 @@ In this repository, I will implement some machine learning algorithms in Python,
     * PVQclustering
     * spectral-clustering
     * spectral-clustering-2
+
+* PageRank
+    * Flow Formula
+    * Google Formula
