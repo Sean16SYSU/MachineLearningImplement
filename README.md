@@ -15,3 +15,7 @@ In this repository, I will implement some machine learning algorithms in Python,
 * PageRank
     * Flow Formula
     * Google Formula
+    
+* Dimensionality Reduction
+    * SVD
+    * CUR
